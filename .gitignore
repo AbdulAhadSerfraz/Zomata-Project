@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+*.pyc
+__pycache__/
+.env
+.DS_Store
+*.log
+profile_default/
+.ipynb_checkpoints
