@@ -4,12 +4,37 @@ A complete exploratory data analysis project for Zomato restaurant dataset, buil
 
 ## Table of Contents
 
+- [About](#about)
 - [Project Goals](#project-goals)
 - [Files](#files)
 - [Data Analysis & Visualizations](#data-analysis--visualizations)
 - [Key Insights](#key-insights)
 - [How to Run](#how-to-run)
 - [License](#license)
+
+## About
+
+This project is an **exploratory data analysis (EDA)** of the Zomato restaurant ecosystem, demonstrating proficiency in:
+
+- **Data Wrangling**: Loading, cleaning, and transforming CSV data using pandas
+- **Statistical Analysis**: Descriptive statistics, distributions, and group aggregations
+- **Data Visualization**: Creating meaningful charts with matplotlib and seaborn
+- **Business Intelligence**: Translating data into actionable recommendations
+- **Documentation**: Professional project structure and stakeholder-ready insights
+
+**Why this project?**
+Zomato is a major food delivery and restaurant discovery platform. Understanding restaurant performance patterns, customer preferences, and ordering modes provides valuable insights for:
+- Restaurant partners optimizing their online presence
+- Marketing teams targeting high-potential segments
+- Product teams improving platform features
+
+**Skills Demonstrated:**
+✅ Python (pandas, numpy, matplotlib, seaborn)  
+✅ Jupyter Notebook for reproducible analysis  
+✅ Data visualization best practices  
+✅ Business insights & recommendations  
+✅ Git version control & GitHub collaboration  
+✅ Professional documentation & open-source readiness
 
 ## Project Goals
 
